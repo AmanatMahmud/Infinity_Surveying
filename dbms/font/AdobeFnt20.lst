@@ -1,0 +1,383 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-ExtraBoldItalic
+FamilyName:Source Code Pro
+StyleName:ExtraBold Italic
+FullName:Source Code Pro ExtraBold Italic
+MenuName:Source Code Pro ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\SourceCodePro-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101268
+FileModTime:1348077600
+WeightClass:800
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro ExtraBold
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Black
+FamilyName:Source Code Pro
+StyleName:Black
+FullName:Source Code Pro Black
+MenuName:Source Code Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119140
+FileModTime:1348077600
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro Black
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-BlackItalic
+FamilyName:Source Code Pro
+StyleName:Black Italic
+FullName:Source Code Pro Black Italic
+MenuName:Source Code Pro Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100924
+FileModTime:1348077600
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro Black
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Bold
+FamilyName:Source Code Pro
+StyleName:Bold
+FullName:Source Code Pro Bold
+MenuName:Source Code Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119648
+FileModTime:1348077600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-BoldItalic
+FamilyName:Source Code Pro
+StyleName:Bold Italic
+FullName:Source Code Pro Bold Italic
+MenuName:Source Code Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101188
+FileModTime:1348077600
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-ExtraBold
+FamilyName:Source Code Pro
+StyleName:ExtraBold
+FullName:Source Code Pro ExtraBold
+MenuName:Source Code Pro ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119644
+FileModTime:1348077600
+WeightClass:800
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro ExtraBold
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-ExtraLight
+FamilyName:Source Code Pro
+StyleName:ExtraLight
+FullName:Source Code Pro ExtraLight
+MenuName:Source Code Pro ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119516
+FileModTime:1348077600
+WeightClass:250
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro ExtraLight
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-ExtraLightItalic
+FamilyName:Source Code Pro
+StyleName:ExtraLight Italic
+FullName:Source Code Pro ExtraLight Italic
+MenuName:Source Code Pro ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101092
+FileModTime:1348077600
+WeightClass:250
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro ExtraLight
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Italic
+FamilyName:Source Code Pro
+StyleName:Italic
+FullName:Source Code Pro Italic
+MenuName:Source Code Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101260
+FileModTime:1348077600
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Light
+FamilyName:Source Code Pro
+StyleName:Light
+FullName:Source Code Pro Light
+MenuName:Source Code Pro Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119900
+FileModTime:1348077600
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro Light
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-LightItalic
+FamilyName:Source Code Pro
+StyleName:Light Italic
+FullName:Source Code Pro Light Italic
+MenuName:Source Code Pro Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101432
+FileModTime:1348077600
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro Light
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Medium
+FamilyName:Source Code Pro
+StyleName:Medium
+FullName:Source Code Pro Medium
+MenuName:Source Code Pro Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119584
+FileModTime:1348077600
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro Medium
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-MediumItalic
+FamilyName:Source Code Pro
+StyleName:Medium Italic
+FullName:Source Code Pro Medium Italic
+MenuName:Source Code Pro Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101188
+FileModTime:1348077600
+WeightClass:500
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro Medium
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Regular
+FamilyName:Source Code Pro
+StyleName:Regular
+FullName:Source Code Pro Regular
+MenuName:Source Code Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119788
+FileModTime:1348077600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-SemiBold
+FamilyName:Source Code Pro
+StyleName:SemiBold
+FullName:Source Code Pro SemiBold
+MenuName:Source Code Pro SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119568
+FileModTime:1348077600
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro SemiBold
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-SemiBoldItalic
+FamilyName:Source Code Pro
+StyleName:SemiBold Italic
+FullName:Source Code Pro SemiBold Italic
+MenuName:Source Code Pro SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dbms\Font\static\SourceCodePro-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101244
+FileModTime:1348077600
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Code Pro SemiBold
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
